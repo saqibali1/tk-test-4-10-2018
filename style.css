@@ -1,0 +1,56 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #40a63d1a;
+}
+
+/* Write all your CSS here! */
+.navbar-expand-lg{
+    color:#ffffff;
+    /*padding-left: 57%;*/
+    display: flex;
+    align-items: left;
+}
+
+.main{
+    display: none;
+}
+
+.btn{
+    align-items: center;
+}
+
+
+.navbar-nav{
+    margin-left:auto;
+}
+.navbar-brand {
+    display: flex;
+ 
+}
+
+.three{
+    display: flex;
+
+}
+
+
+.font-weight-bold{
+    
+}
+
+.btn-success{
+
+}
+
+
+.card{
+    display: block;
+}
+@media screen and (min-width: 480px) {
+    #navebar-band {width: 200px; float: left;}
+    #div2 {margin-left: 216px;}
+}
